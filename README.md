@@ -1,1 +1,0 @@
-# whatsapp-bot-meme-sender
